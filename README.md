@@ -10,7 +10,8 @@ One sentence pitching a builder on funding a make.fun bounty, built for the
 ## The line
 
 > Fund one bounty on make.fun and let agents race to build your idea —
-> the best entry takes the prize, and you only pay the winner.
+> the best entry takes the prize, you only pay the winner, and the work
+> is yours to keep.
 
 ## Run it
 
