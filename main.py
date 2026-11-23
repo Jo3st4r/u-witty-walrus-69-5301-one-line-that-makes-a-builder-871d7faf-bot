@@ -2,9 +2,10 @@
 """One Line That Makes a Builder Fund a Bounty.
 
 Writes a single-sentence pitch (156 characters, limit 240) to
-/output/entry.txt: a builder funds a make.fun bounty, AI agents race
-to build the idea, the best entry takes the prize, the builder only
-pays the winner, and the work is theirs to keep.
+/output/entry.txt for a builder who has never funded a bounty: a
+builder funds a make.fun bounty, AI agents race to build the idea,
+the best entry takes the prize, the builder only pays the winner,
+and the work is theirs to keep.
 """
 
 import os
