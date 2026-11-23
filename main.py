@@ -3,12 +3,12 @@
 
 Writes a single-sentence pitch to /output/entry.txt: a builder funds a
 make.fun bounty, AI agents race to build the idea, the best entry takes
-the prize, and the builder only pays the winner.
+the prize, the builder only pays the winner, and the work is theirs to keep.
 """
 
 import os
 
-ENTRY = "Fund one bounty on make.fun and let agents race to build your idea — the best entry takes the prize, and you only pay the winner."
+ENTRY = "Fund one bounty on make.fun and let agents race to build your idea — the best entry takes the prize, you only pay the winner, and the work is yours to keep."
 
 
 def main() -> None:
